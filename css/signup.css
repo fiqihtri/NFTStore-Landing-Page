@@ -288,7 +288,8 @@ nav .container #eth {
 
     #buttonsignup {
         aspect-ratio: 8/4;
-        margin-right: 10px;
+        width: 80px;
+        margin-right: 20px;
     }
 
     .signup {
