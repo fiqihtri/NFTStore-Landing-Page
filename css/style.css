@@ -454,11 +454,11 @@ footer {
 
 @media screen and (max-width: 416px) {
   nav .container #eth {
-    width: 40px;
+    width: 30px;
   }
 
   .navbar-brand {
-    font-size: 30px;
+    font-size: 22px;
   }
 
   #home .img-over img {
@@ -472,7 +472,7 @@ footer {
 
   .btn-primary{
     left: 50%;
-    transform: translate(50%);
+    transform: translate(40%);
   }
 
   #share .img-over img {

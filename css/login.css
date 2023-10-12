@@ -280,7 +280,7 @@ nav .container #eth {
     }
 
     #login {
-        margin-top: 2rem;
+        margin-top: 3rem;
     }
 
     .form-container {
@@ -297,11 +297,11 @@ nav .container #eth {
     }
 
     nav .container #eth {
-        width: 40px;
+        width: 30px;
     }
 
     .navbar-brand {
-        font-size: 30px;
+        font-size: 22px;
     }
 
     .nav-link {
@@ -309,7 +309,7 @@ nav .container #eth {
     }
 
     #buttonlogin {
-        aspect-ratio: 7/3;
+        aspect-ratio: 8/4;
     }
 
     .signup {
