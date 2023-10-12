@@ -122,6 +122,7 @@ nav .container #eth {
     text-align: end;
     color: #747474;
     text-decoration-color: #747474;
+    border-style: hidden;
 }
 
 .page-link-label {
